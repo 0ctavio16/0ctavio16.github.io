@@ -1,0 +1,34 @@
+body {
+	background:#23272A;
+	font-family:arial;
+	color: white;
+}
+
+.OliverHeading {
+	color: white;
+	padding: 1px;
+	width: 200%;
+	height: 80px;
+	display: block;
+	background-color: #181d23;
+	padding-bottom: 5px;
+	overflow: hidden;
+	text-align: left;
+	position: fixed;
+	top:0;
+	left:0;
+	padding-left:30px;
+}
+
+.MainHeading {
+	font-size: large;
+
+}
+
+.imgContainer {
+	display:inline-block;
+	margin-left: 280px;
+
+
+}
+
